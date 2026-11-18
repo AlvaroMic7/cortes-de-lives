@@ -1,0 +1,4 @@
+faster-whisper==1.2.1
+numpy>=2,<3
+streamlink>=8.6,<9
+yt-dlp[default]>=2026.10.26

@@ -1,0 +1,12 @@
+{
+  "data": "2026-11-18",
+  "canal": "Meu canal",
+  "layouts": [[0, "tela"]],
+  "cortes": [
+    {
+      "slug": "melhor-momento",
+      "titulo": "O melhor momento da live",
+      "trechos": [[2, 10]]
+    }
+  ]
+}
